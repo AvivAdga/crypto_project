@@ -18,6 +18,8 @@ bootstrap and A.P.I.
 
  ![Wireframe - 1]()
 * home page
- ![Wireframe - 1](./final_web_JS/Screenshots/logoScreenShot.png)
+* ![home_page](https://user-images.githubusercontent.com/105584197/178675014-a1b841a9-f0d8-4cf2-85fa-f129b34c207e.png)
+
+* 
 * crypto price page
- ![Wireframe - 1](./final_web_JS/Screenshots/HomePageScreenShot.png)
+![crypto_prices](https://user-images.githubusercontent.com/105584197/178675072-936d98e9-eda3-495c-835a-4c92ab28e2f4.png)
